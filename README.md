@@ -4,6 +4,11 @@
 
 <br>
 
+<a href='https://open.spotify.com/user/31knoszublj4pb4324spqwjo55dq'>
+    <img src='https://img.shields.io/badge/Kick out of the Lights-&?style=social&logo=spotify'>
+  </a>
+<br>
+
 ![Srajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSrajan&show_icons=true&theme=dark)
 
 <br>
@@ -15,4 +20,16 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rai-)
 
 <br>
+  
+
+  [![LinkedIn Badge](https://img.shields.io/badge/-Srajan_Rai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srnr/)](https://www.linkedin.com/in/pablodsilva/)&nbsp;
+  
+  [![Gmail Badge](https://img.shields.io/badge/-srajanrai2.0@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:srajanrai2.0@gmail.com)&nbsp;
+  
+  [![Instagram Badge](https://img.shields.io/badge/-Srajan_Rai-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/notcaplock/)&nbsp;
+  
+  [![Twitter Badge](https://img.shields.io/badge/-Srajan_Rai-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/srajanra1)&nbsp;
+  
+
+</div>
 

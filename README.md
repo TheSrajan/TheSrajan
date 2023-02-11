@@ -22,7 +22,7 @@
 <br>
   
 
-  [![LinkedIn Badge](https://img.shields.io/badge/-Srajan_Rai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srnr/)](https://www.linkedin.com/in/pablodsilva/)&nbsp;
+  [![LinkedIn Badge](https://img.shields.io/badge/-Srajan_Rai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srnr/)](https://www.linkedin.com/in/srnr/)&nbsp;
   
   [![Gmail Badge](https://img.shields.io/badge/-srajanrai2.0@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:srajanrai2.0@gmail.com)&nbsp;
   

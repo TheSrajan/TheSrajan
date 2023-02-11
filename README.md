@@ -26,7 +26,7 @@
   
   [![Gmail Badge](https://img.shields.io/badge/-srajanrai2.0@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:srajanrai2.0@gmail.com)&nbsp;
   
-  [![Instagram Badge](https://img.shields.io/badge/-Srajan_Rai-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/notcaplock/)&nbsp;
+  [![Instagram Badge](https://img.shields.io/badge/-Srajan_Rai-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/notcapslock/)&nbsp;
   
   [![Twitter Badge](https://img.shields.io/badge/-Srajan_Rai-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/srajanra1)&nbsp;
   
